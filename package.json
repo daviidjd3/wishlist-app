@@ -11,7 +11,7 @@
     "react": "^18.0.0",
     "react-dom": "^18.0.0"
   },
-  "devDependecies": {
+  "devDependencies": {
     "vite": "^4.0.0"
   }
 }
